@@ -22,7 +22,7 @@ require (
 	github.com/hashicorp/go-secure-stdlib/strutil v0.1.2
 	github.com/hashicorp/hcl v1.0.1-vault-5
 	github.com/mitchellh/mapstructure v1.5.0
-	golang.org/x/net v0.36.0
+	golang.org/x/net v0.38.0
 	golang.org/x/time v0.9.0
 )
 
