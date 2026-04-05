@@ -34,7 +34,7 @@ require (
 	github.com/duosecurity/duo_api_golang v0.2.0
 	github.com/fatih/color v1.18.0
 	github.com/go-errors/errors v1.5.1
-	github.com/go-jose/go-jose/v4 v4.1.3
+	github.com/go-jose/go-jose/v4 v4.1.4
 	github.com/go-ldap/ldap/v3 v3.4.13
 	github.com/go-ldap/ldif v0.0.0-20200320164324-fd88d9b715b3
 	github.com/go-sql-driver/mysql v1.9.3
@@ -146,7 +146,7 @@ require (
 	golang.org/x/term v0.41.0
 	golang.org/x/text v0.35.0
 	google.golang.org/api v0.272.0
-	google.golang.org/grpc v1.79.3
+	google.golang.org/grpc v1.80.0
 	google.golang.org/protobuf v1.36.11
 	gopkg.in/jcmturner/goidentity.v3 v3.0.0
 	k8s.io/api v0.35.3
@@ -323,7 +323,7 @@ require (
 	github.com/openbao/openbao/api/auth/kubernetes/v2 v2.0.1 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.1.1 // indirect
-	github.com/opencontainers/runc v1.2.3 // indirect
+	github.com/opencontainers/runc v1.2.8 // indirect
 	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b // indirect
 	github.com/oracle/oci-go-sdk/v60 v60.0.0 // indirect
 	github.com/ovh/kmip-go v0.3.3 // indirect
